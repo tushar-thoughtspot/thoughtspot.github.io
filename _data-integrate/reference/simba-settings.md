@@ -173,5 +173,17 @@ The following tables summarize the configuration properties.
             created. The default value is 50.
          </td>
       </tr>
+      <tr>
+         <td><code>UID</code></td>
+         <td>Login Username</td>
+         <td>The ODBC/JDBC login username.
+         </td>
+      </tr>
+      <tr>
+         <td><code>PWD</code></td>
+         <td>Login Pasword</td>
+         <td>The ODBC/JDBC login password.
+         </td>
+      </tr>
    </tbody>
 </table>
